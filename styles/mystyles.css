@@ -1,0 +1,19 @@
+li,ul{
+    font-family: Arial, Helvetica, sans-serif;
+    color:rosybrown
+}
+li{font-size: large;
+   
+}
+
+h2{
+    color:lightblue
+}
+
+h3{
+    color:rgb(143, 91, 91)
+}
+
+.center{
+    text-align: center;
+}

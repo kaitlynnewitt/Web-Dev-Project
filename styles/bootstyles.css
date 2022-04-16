@@ -1,0 +1,19 @@
+header{height: 100}
+header{background-color: pink;}
+header{line-height: normal;}
+
+.common{
+    text-align: center;
+}
+
+
+footer{height: 90}
+footer{background-color: pink;}
+footer{line-height: 100px ;}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-size-adjust: large;
+
+}
